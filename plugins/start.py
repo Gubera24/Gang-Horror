@@ -49,7 +49,7 @@ async def start(client, message):
         ],[
         InlineKeyboardButton("👻 Horror Movie's Tamil  ", url='https://t.me/+gcjBVRjoRZcwYTQ1')
         ],[
-        InlineKeyboardButton("❤️‍🔥 Disney + Hotstar Tamil  !", url='https://t.me/+J7F6aapY89hiYjVl')
+        InlineKeyboardButton("❤️‍🔥 Disney + Hotstar Tamil  !", url='https://t.me/+K5Ur-Zh5tjQwNmRl')
         ],[
         InlineKeyboardButton("🍓 All Webseries Tamil 🍓", url='https://t.me/+JjT99ajwqQs1Mjdl')
         ],[
@@ -108,7 +108,7 @@ async def cb_handler(client, query: CallbackQuery):
         ],[
         InlineKeyboardButton("👻 Horror Movie's Tamil ", url='https://t.me/+gcjBVRjoRZcwYTQ1')
         ],[
-        InlineKeyboardButton("❤️‍🔥 Disney + Hotstar Tamil  !", url='https://t.me/+J7F6aapY89hiYjVl')
+        InlineKeyboardButton("❤️‍🔥 Disney + Hotstar Tamil  !", url='https://t.me/+K5Ur-Zh5tjQwNmRl')
         ],[
         InlineKeyboardButton("🍓 All Webseries Tamil 🍓", url='https://t.me/+JjT99ajwqQs1Mjdl')
         ],[
