@@ -41,13 +41,13 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("😈 Developer 😈", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/+gcjBVRjoRZcwYTQ1'),
+        InlineKeyboardButton('📢 Updates', url='https://t.me/+bOs6GU49VYk0YjZl'),
         InlineKeyboardButton('🤝 Support', url='https://t.me/Tamilan41')
         ],[
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("👻 Horror Movie's Tamil  ", url='https://t.me/+gcjBVRjoRZcwYTQ1')
+        InlineKeyboardButton("👻 Horror Movie's Tamil  ", url='https://t.me/+bOs6GU49VYk0YjZl')
         ],[
         InlineKeyboardButton("❤️‍🔥 Disney + Hotstar Tamil  !", url='https://t.me/+K5Ur-Zh5tjQwNmRl')
         ],[
@@ -100,13 +100,13 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
         InlineKeyboardButton("😈 Developer 😈", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/+gcjBVRjoRZcwYTQ1'),
+        InlineKeyboardButton('📢 Updates', url='https://t.me/+bOs6GU49VYk0YjZl'),
         InlineKeyboardButton('🤝 Support', url='https://t.me/Tamilan41')
         ],[
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("👻 Horror Movie's Tamil ", url='https://t.me/+gcjBVRjoRZcwYTQ1')
+        InlineKeyboardButton("👻 Horror Movie's Tamil ", url='https://t.me/+bOs6GU49VYk0YjZl')
         ],[
         InlineKeyboardButton("❤️‍🔥 Disney + Hotstar Tamil  !", url='https://t.me/+K5Ur-Zh5tjQwNmRl')
         ],[
@@ -125,9 +125,9 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://t.me/Tamilanda29")
                ],[
-               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+gcjBVRjoRZcwYTQ1')
+               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+bOs6GU49VYk0YjZl')
                ],[
-               InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+gcjBVRjoRZcwYTQ1")
+               InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+bOs6GU49VYk0YjZl")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -142,9 +142,9 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/Tamilanda29")
                ],[
-               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+gcjBVRjoRZcwYTQ1')
+               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+bOs6GU49VYk0YjZl')
                ],[
-                InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+gcjBVRjoRZcwYTQ1")
+                InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+bOs6GU49VYk0YjZl")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -158,9 +158,9 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/Tamilanda29")
                ],[
-               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+gcjBVRjoRZcwYTQ1')
+               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+bOs6GU49VYk0YjZl')
                ],[
-                InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+gcjBVRjoRZcwYTQ1")
+                InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+bOs6GU49VYk0YjZl")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
