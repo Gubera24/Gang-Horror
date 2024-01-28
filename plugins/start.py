@@ -47,7 +47,7 @@ async def start(client, message):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("👻 Horror Movie's Tamil  ", url='https://t.me/+bOs6GU49VYk0YjZl')
+        InlineKeyboardButton("🎥 Prime Video Tamil  ", url='https://t.me/+bOs6GU49VYk0YjZl')
         ],[
         InlineKeyboardButton("❤️‍🔥 Disney + Hotstar Tamil  !", url='https://t.me/+K5Ur-Zh5tjQwNmRl')
         ],[
