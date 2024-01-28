@@ -41,8 +41,8 @@ class mr(object):
 ├❤️‍🔥 Ceo : <a href=https://t.me/Tamilanda35>Co-Owner</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
-├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁1 : <a href=https://apps.koyeb.com>Koyeb</a>
+├💾 DATABASE : <a href=https://www.elephantsql.com/>Elephant-SQL</a>
+├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁1 : <a href=https://scalingo.com/>Scalingo</a>
 ├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁2 : <a href=https://Render.com>Render</a>
 ├❣️ Source Code : <a href=https://github.com/Gubera24/Gang-Horror>Repo</a>
 ├📊 BUILD-STATUS : Python v3.6.8               
@@ -78,6 +78,6 @@ Example:- /set_caption 📕 File Name: {filename}
 • 👻 <a href=https://t.me/Tamilanda29>Owner</a>
 • 👻 <a href=https://t.me/Tamilanda35>Co-Owner</a>
 • 👻 <a href=https://github.com/Gubera24>Github</a>
-• 👻 <a href=https://t.me/+gcjBVRjoRZcwYTQ1>Horror Movie's Tamil</a>
-• 👻 <a href=https://t.me/thesoulesssoul>valuable Patner</a>
+• 👻 <a href=https://t.me/+bOs6GU49VYk0YjZl>Prime Video Tamil</a>
+• 👻 <a href=https://t.me/Teamnaruto74>valuable Patner</a>
 """
