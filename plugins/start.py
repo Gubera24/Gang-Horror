@@ -106,7 +106,7 @@ async def cb_handler(client, query: CallbackQuery):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("👻 Horror Movie's Tamil ", url='https://t.me/+bOs6GU49VYk0YjZl')
+        InlineKeyboardButton("🎥 Prime Video Tamil ", url='https://t.me/+bOs6GU49VYk0YjZl')
         ],[
         InlineKeyboardButton("❤️‍🔥 Disney + Hotstar Tamil  !", url='https://t.me/+K5Ur-Zh5tjQwNmRl')
         ],[
@@ -125,9 +125,9 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://t.me/Tamilanda29")
                ],[
-               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+bOs6GU49VYk0YjZl')
+               InlineKeyboardButton("🌽 Thalapathy Vijay 🌽", url='https://t.me/+bOs6GU49VYk0YjZl')
                ],[
-               InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+bOs6GU49VYk0YjZl")
+               InlineKeyboardButton("🎥 Prime Video Tamil 🎥", url="https://t.me/+bOs6GU49VYk0YjZl")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -142,9 +142,9 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/Tamilanda29")
                ],[
-               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+bOs6GU49VYk0YjZl')
+               InlineKeyboardButton("🌽 Thalapathy Vijay 🌽", url='https://t.me/+bOs6GU49VYk0YjZl')
                ],[
-                InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+bOs6GU49VYk0YjZl")
+                InlineKeyboardButton("🎥 Prime Video Tamil 🎥", url="https://t.me/+bOs6GU49VYk0YjZl")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -158,9 +158,9 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/Tamilanda29")
                ],[
-               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+bOs6GU49VYk0YjZl')
+               InlineKeyboardButton("🌽 Thalapathy Vijay 🌽", url='https://t.me/+bOs6GU49VYk0YjZl')
                ],[
-                InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+bOs6GU49VYk0YjZl")
+                InlineKeyboardButton("🎥 Prime Video Tamil 🎥", url="https://t.me/+bOs6GU49VYk0YjZl")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
